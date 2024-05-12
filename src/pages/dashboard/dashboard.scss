@@ -1,0 +1,19 @@
+.dashboard-header {
+  display: flex;
+  align-items: center;
+}
+
+.dashboard-menu {
+  flex: 1;
+  min-width: auto;
+}
+.dashboard-content {
+  padding: 0 48px;
+}
+
+.dashboard-bread {
+  margin: 16px 0;
+}
+.dashboard-footer {
+  text-align: center;
+}
